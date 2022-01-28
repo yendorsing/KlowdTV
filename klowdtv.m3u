@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KlowdTV_EPGOAN Plus" tvg-name="OAN Plus" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/oanencore/logo_small.png" group-title="KlowdTV",OAN Plus
+https://67bf68ca230b4e82bd5ac42d46449483.mediatailor.us-west-2.amazonaws.com/v1/master/d138761b0916ee5f222129c594a33677627df5e3/KlowdTV_OAN_Plus/fast/OAN_Encore/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGAWE Plus" tvg-name="AWE Plus" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/AWEEncore/logo_small.png" group-title="KlowdTV",AWE Plus
+https://b08f85ef072648ebbe197a5e5e436549.mediatailor.us-west-2.amazonaws.com/v1/master/d138761b0916ee5f222129c594a33677627df5e3/KlowdTV_AWE_Plus/fast/AWE_Encore/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGThe First" tvg-name="The First" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/thefirst/logo_small.png" group-title="KlowdTV",The First
+https://redseat-thefirst-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-redseat-thefirst-klowdtv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGNewsMax" tvg-name="NewsMax TV (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/newsMax/logo_small.png" group-title="KlowdTV",NewsMax TV (GEO USA)
+https://newsmax-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGFrance24" tvg-name="France24" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/france24/logo_small.png" group-title="KlowdTV",France24
+http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGFrance24 Espanol" tvg-name="France24 Espanol" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/France24Spanish/logo_small.png" group-title="KlowdTV",France24 Espanol
+http://n1.klowdtv.net/live2/france24sp_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGTicker News" tvg-name="Ticker News (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/tickerNews/logo_small.png" group-title="KlowdTV",Ticker News (GEO USA)
+https://tickernews-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGLaw And Crime" tvg-name="Law & Crime Trial Network" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/lawAndCrime/logo_small.png" group-title="KlowdTV",Law & Crime Trial Network
+https://cdn.klowdtv.net/803B48A/nimble_fast_channels/v1/manifest/d138761b0916ee5f222129c594a33677627df5e3/nimble_fast_channels/1ae5c302-3537-48d5-95ed-e2a5bc91f949/0.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGWion" tvg-name="WION (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/wion/logo_small.png" group-title="KlowdTV",WION (GEO USA)
+https://wion-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGEuronews" tvg-name="Euronews" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/euroNews/logo_small.png" group-title="KlowdTV",Euronews
+http://n1.klowdtv.net/live1/euronews_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGInfoWars" tvg-name="Infowars" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/infowars/logo_small.png" group-title="KlowdTV",Infowars
+http://n1.klowdtv.net/live2/infowars_source/chunks.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGGustoTV" tvg-name="Gusto TV (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/gustoTV/logo_small.png" group-title="KlowdTV",Gusto TV (GEO USA)
+https://gusto-klowd.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGAspire TV Life" tvg-name="Aspire TV Life" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/aspireTVLife/logo_small.png" group-title="KlowdTV",Aspire TV Life
+https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGCourtTV" tvg-name="CourtTV" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/CourtTV/logo_small.png" group-title="KlowdTV",CourtTV
+http://n1.klowdtv.net/live3/courttv_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGFuse Backstage" tvg-name="Fuse Backstage (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/fuseBackstage/logo_small.png" group-title="KlowdTV",Fuse Backstage (GEO USA)
+https://fusexl-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGClassic Reruns TV" tvg-name="Classic Reruns TV (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/classicReruns/logo_small.png" group-title="KlowdTV",Classic Reruns TV (GEO USA)
+https://classicreruntv-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGSamuel Goldwyn Films" tvg-name="Samuel Goldwyn Films (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/samuelGoldwynFilms/logo_small.png" group-title="KlowdTV",Samuel Goldwyn Films (GEO USA)
+https://samuelgoldwyn-films-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGSamuel Goldwyn Classics" tvg-name="Samuel Goldwyn Classic (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/samuelGoldwynClassics/logo_small.png" group-title="KlowdTV",Samuel Goldwyn Classic (GEO USA)
+https://samuelgoldwyn-classic-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGSo Real" tvg-name="Soreal (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/soReal/logo_small.png" group-title="KlowdTV",Soreal (GEO USA)
+https://cinedigm-soreal-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGNosey" tvg-name="Nosey (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/nosey/logo_small.png" group-title="KlowdTV",Nosey (GEO USA)
+https://nosey-intl-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPG24 Hour Movies" tvg-name="24 Hour Movies" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/24hoursMovies/logo_small.png" group-title="KlowdTV",24 Hour Movies
+https://muxip-24hoursmovies-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-muxip-24hoursmovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGAction Hollywood" tvg-name="Action Hollywood Movies (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/actionHollywood/logo_small.png" group-title="KlowdTV",Action Hollywood Movies (GEO USA)
+https://actionhollywood-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGPopStar" tvg-name="Popstar (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/popStar/logo_small.png" group-title="KlowdTV",Popstar (GEO USA)
+https://popstar-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGDocuStream" tvg-name="DocuStream" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/docubox/logo_small.png" group-title="KlowdTV",DocuStream
+https://docubox-english-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGDemand Africa" tvg-name="Demand Africa" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/demandAfrica/logo_small.png" group-title="KlowdTV",Demand Africa
+https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGLove Nature" tvg-name="LoveNature (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/loveNature/logo_small.png" group-title="KlowdTV",LoveNature (GEO USA)
+https://bamus-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGAXS TV Now" tvg-name="AXStv Now" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/axsTV/logo_small.png" group-title="KlowdTV",AXStv Now
+https://anthem-axstvnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGQVC Live" tvg-name="QVC" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/qvcLive/logo_small.png" group-title="KlowdTV",QVC
+http://n1.klowdtv.net/live2/qvclive_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGFido TV " tvg-name="Fido TV" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/Fido/logo_small.png" group-title="KlowdTV",Fido TV
+http://n1.klowdtv.net/live3/fido_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGImpact" tvg-name="Impact!" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/impact/logo_small.png" group-title="KlowdTV",Impact!
+https://anthem-impactwrestling.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGBeIN Sports Xtra" tvg-name="Bein Sports Xtra (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/beinSportXtra/logo_small.png" group-title="KlowdTV",Bein Sports Xtra (GEO USA)
+https://beinxtra-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGBeIN Sports Xtra En Espanol" tvg-name="Bein Sports Xtra en Espanol (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/beinSportsXtraEspanol/logo_small.png" group-title="KlowdTV",Bein Sports Xtra en Espanol (GEO USA)
+https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGUnbeaten" tvg-name="Unbeaten" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/unbeaten/logo_small.png" group-title="KlowdTV",Unbeaten
+https://inverleigh-unbeaten-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGHard Knocks" tvg-name="HardKnocks" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/hardKnocks/logo_small.png" group-title="KlowdTV",HardKnocks
+https://muxip-hardknocks-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-muxip-hardknocks/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGSports Grid" tvg-name="Sportsgrid" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/sportsGrid/logo_small.png" group-title="KlowdTV",Sportsgrid
+https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGFite" tvg-name="Fite" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/Fite/logo_small.png" group-title="KlowdTV",Fite
+http://n1.klowdtv.net/live2/fite247_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGSightline" tvg-name="Sightline (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/sightline/logo_small.png" group-title="KlowdTV",Sightline (GEO USA)
+https://naviofrequency-sightline-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGCampus Lore" tvg-name="Campuslore (GEO-USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/campusLore/logo_small.png" group-title="KlowdTV",Campuslore (GEO-USA)
+https://naviofequency-campusloresports.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGHunt Channel" tvg-name="Hunt Channel (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/huntChannel/logo_small.png" group-title="KlowdTV",Hunt Channel (GEO USA)
+https://cdn.klowdtv.net/803B48A/aws_fast_channels/v1/manifest/d138761b0916ee5f222129c594a33677627df5e3/AWS_Fast_Channels/585bf2e2-b01b-4308-b5a1-1b498030448e/0.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGWire2Fish" tvg-name="Wired2Fish (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/wire2fish/logo_small.png" group-title="KlowdTV",Wired2Fish (GEO USA)
+https://wire2fish-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGBilliardTV" tvg-name="Billiard TV" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/billiardTV/logo_small.png" group-title="KlowdTV",Billiard TV
+https://tripleb-billiardtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-tripleb-billiardtv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGPursuitUP" tvg-name="PursuitUp (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/pursuitUP/logo_small.png" group-title="KlowdTV",PursuitUp (GEO USA)
+https://pursuitup-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGHSN" tvg-name="HSN" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/hsn/logo_small.png" group-title="KlowdTV",HSN
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/hsn_360p/chunks.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGLacrosse Sports Network" tvg-name="LSN (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/lacrosseSportsNetwork/logo_small.png" group-title="KlowdTV",LSN (GEO USA)
+https://tripleb-lsn.amagi.tv/hls/amagi_hls_data_klowdtvAA-tripleb-lacrosse-sports-network/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGFor the Fans" tvg-name="FTF For the Fans (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/forTheFans/logo_small.png" group-title="KlowdTV",FTF For the Fans (GEO USA)
+https://tripleb-ftf.amagi.tv/hls/amagi_hls_data_klowdtvAA-tripleb-for-the-fans/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGFun Roads TV" tvg-name="Fun Roads TV" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/funRoadsTV/logo_small.png" group-title="KlowdTV",Fun Roads TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978
+#EXTINF:-1 tvg-id="KlowdTV_EPGHorseTV" tvg-name="HorseTV" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/HorseTV/logo_small.png" group-title="KlowdTV",HorseTV
+http://n1.klowdtv.net/live3/horsetv_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGNASA TV" tvg-name="Nasa TV" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/nasaTV/logo_small.png" group-title="KlowdTV",Nasa TV
+http://n1.klowdtv.net/live3/nasa_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGCircle" tvg-name="Circle (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/circle/logo_small.png" group-title="KlowdTV",Circle (GEO USA)
+https://circle-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGNashville Country TV" tvg-name="Nashville Country TV" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/nashvilleTV/logo_small.png" group-title="KlowdTV",Nashville Country TV
+https://d2w1tfvqo2ceap.cloudfront.net/hls/hls.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGShopLC" tvg-name="ShopLC" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/shopLC/logo_small.png" group-title="KlowdTV",ShopLC
+https://shoplc-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGFeva TV" tvg-name="Feva TV (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/fevaTV/logo_small.png" group-title="KlowdTV",Feva TV (GEO USA)
+https://feva-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGBusiness Rockstars" tvg-name="Business Rockstars" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/businessRockstars/logo_small.png" group-title="KlowdTV",Business Rockstars
+https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGAllied Esports" tvg-name="Allied Esports" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/alliedESports/logo_small.png" group-title="KlowdTV",Allied Esports
+https://muxip-alliedesports-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-muxip-allied-e-sports/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGLevel Up" tvg-name="Level Up" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/levelUP/logo_small.png" group-title="KlowdTV",Level Up
+https://d37s0md1fx4qof.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-KlowdTV/195.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGDark Matter" tvg-name="Dark Matter (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/darkMatter/logo_small.png" group-title="KlowdTV",Dark Matter (GEO USA)
+https://darkmatter-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGDUNGEON TV" tvg-name="Dungeon" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/dungeonTV/logo_small.png" group-title="KlowdTV",Dungeon
+https://content.uplynk.com/channel/5688add7ce704ce1a27ab62bb44044b9.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGDark Corners" tvg-name="Dark Corners" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/darkCorners/logo_small.png" group-title="KlowdTV",Dark Corners
+https://d37s0md1fx4qof.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DarkCorners-KlowdTV/189.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGEl ConflictoTV" tvg-name="El Conflicto!" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/elConflictoTV/logo_small.png" group-title="KlowdTV",El Conflicto!
+https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGScreenDreams" tvg-name="Screendreams" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/screenDreams/logo_small.png" group-title="KlowdTV",Screendreams
+https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGQuietude" tvg-name="Quietude (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/quietude/logo_small.png" group-title="KlowdTV",Quietude (GEO USA)
+https://naviofrequency-quietude4k-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGWatchitKid!" tvg-name="Watchitkid" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/quietude/logo_small.png" group-title="KlowdTV",Watchitkid
+https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGFantawild" tvg-name="FantaWild (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/fantawild/logo_small.png" group-title="KlowdTV",FantaWild (GEO USA)
+https://cinedigm-fantawild-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGHappiTV" tvg-name="HappiTV" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/happitv/logo_small.png" group-title="KlowdTV",HappiTV
+https://globecastna-happi-tv-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-happi-tv-klowdtv/CDN/playlist.m3u8
